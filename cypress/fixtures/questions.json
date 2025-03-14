@@ -1,0 +1,9 @@
+{
+    "question": "Which JavaScript method converts a JSON string into an object?",
+    "answers": [
+      { "text": "JSON.parse()", "isCorrect": true },
+      { "text": "JSON.stringify()", "isCorrect": false },
+      { "text": "JSON.toObject()", "isCorrect": false },
+      { "text": "JSON.convert()", "isCorrect": false }
+    ]
+  }
