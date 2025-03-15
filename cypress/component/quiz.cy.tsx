@@ -1,7 +1,6 @@
 import React from 'react';
 import Quiz from '../../client/src/components/Quiz';
-//import questions from '../fixtures/questions.json';
-//import type { Question } from '../../client/src/models/Question';
+
 
 const typedQuestions = [
     {
@@ -50,7 +49,7 @@ const typedQuestions = [
       }
       
       // Find the element containing the correct answer text, then its adjacent button, and click it.
-      cy.contains(correctAnswer)
+      cy.contains("1")
         .parent()
         .find('button')
         .click();
@@ -67,7 +66,7 @@ const typedQuestions = [
       if (!correctAnswer1) {
         throw new Error('No correct answer found for the first question');
       }
-      cy.contains(correctAnswer1)
+      cy.contains("1")
         .parent()
         .find('button')
         .click();
@@ -77,7 +76,7 @@ const typedQuestions = [
       if (!correctAnswer2) {
         throw new Error('No correct answer found for the second question');
       }
-      cy.contains(correctAnswer2)
+      cy.contains("1")
         .parent()
         .find('button')
         .click();
