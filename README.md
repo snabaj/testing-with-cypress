@@ -17,23 +17,23 @@ Testing is a critical part of the development process—ensuring that our applic
 
 ## Features
 
-  **Interactive Quiz Interface:**
+  - **Interactive Quiz Interface:**
 
   A responsive and intuitive user interface built with React.
 
-  **Dynamic Question Loading:**
+  - **Dynamic Question Loading:**
 
   Questions are fetched from the server, allowing for an ever-evolving quiz experience.
 
-  **Robust State Management:**
+  - **Robust State Management:**
   
   Ensures smooth transitions between questions, accurate scoring, and seamless user experience.
 
-  **Comprehensive Testing:**
+  - **Comprehensive Testing:**
   
   Utilizes Cypress for both component and end-to-end testing, ensuring reliability and robustness.
 
-  **Modern Full-Stack Architecture:**
+  - **Modern Full-Stack Architecture:**
   
   Built on a MERN stack, integrating client-side React with a server-side Express application.
 
