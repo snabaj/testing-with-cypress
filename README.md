@@ -142,7 +142,7 @@ project-folder/
 
 ### 🚀 Watch video showing the app's functionality and testing in the command line and Cypress GUI
 
-<video controls src="client/src/assets/Quiz Tech App Testing March 22, 2025 2_53 PM.mp4" title="Title"></video>
+https://drive.google.com/file/d/1P6qn4crjZkXYAXJ4WpwGAZasHFRcZ_vH/view
 
 ## Contributing
 
