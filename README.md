@@ -48,7 +48,7 @@ Testing is a critical part of the development process—ensuring that our applic
     - [Starting the Server and Running Tests](#starting-the-server-and-running-tests)
     - [Run Cypress Tests](#run-cypress-tests)
     - [Project Structure](#project-structure)
-    - [Preview Images of Tests Running in Cypress GUI 📸](#preview-images-of-tests-running-in-cypress-gui-)
+    - [Preview images of tests running in Cypress GUI 📸](#preview-images-of-tests-running-in-cypress-gui-)
     - [🚀 Watch video showing the app's functionality and testing in the command line and Cypress GUI](#-watch-video-showing-the-apps-functionality-and-testing-in-the-command-line-and-cypress-gui)
   - [Contributing](#contributing)
   - [License](#license)
@@ -130,7 +130,7 @@ project-folder/
 └── package.json
 ```
 
-### Preview Images of Tests Running in Cypress GUI 📸
+### Preview images of tests running in Cypress GUI 📸
 
 **Component Test**
 
