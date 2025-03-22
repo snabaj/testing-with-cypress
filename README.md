@@ -26,15 +26,15 @@ Testing is a critical part of the development process—ensuring that our applic
   Questions are fetched from the server, allowing for an ever-evolving quiz experience.
 
 - **Robust State Management:**
-  
+
   Ensures smooth transitions between questions, accurate scoring, and seamless user experience.
 
 - **Comprehensive Testing:**
-  
+
   Utilizes Cypress for both component and end-to-end testing, ensuring reliability and robustness.
 
 - **Modern Full-Stack Architecture:**
-  
+
   Built on a MERN stack, integrating client-side React with a server-side Express application.
 
 ## Table Of Contents
@@ -48,7 +48,8 @@ Testing is a critical part of the development process—ensuring that our applic
     - [Starting the Server and Running Tests](#starting-the-server-and-running-tests)
     - [Run Cypress Tests](#run-cypress-tests)
     - [Project Structure](#project-structure)
-    - [Preview Images of Tests Running in Cypress GUI](#preview-images-of-tests-running-in-cypress-gui)
+    - [Preview Images of Tests Running in Cypress GUI 📸](#preview-images-of-tests-running-in-cypress-gui--)
+    - [🚀 Watch video showing the app's functionality and testing in the command line and Cypress GUI](#-watch-video-showing-the-apps-functionality-and-testing-in-the-command-line-and-cypress-gui)
   - [Contributing](#contributing)
   - [License](#license)
   - [Tests](#tests)
@@ -129,7 +130,7 @@ project-folder/
 └── package.json
 ```
 
-### Preview Images of Tests Running in Cypress GUI
+### Preview Images of Tests Running in Cypress GUI 📸
 
 **Component Test**
 
@@ -139,9 +140,7 @@ project-folder/
 
 ![E2E test](client/src/assets/E2E-test.jpg)
 
-<!-- ### Video Showing Testing of the App in the Command Line and Cypress GUI
-
-[video of testing](client/src/assets/testing-cypress.mov) -->
+### 🚀 [Watch video showing the app's functionality and testing in the command line and Cypress GUI](https://drive.google.com/file/d/1P6qn4crjZkXYAXJ4WpwGAZasHFRcZ_vH/view)
 
 ## Contributing
 
