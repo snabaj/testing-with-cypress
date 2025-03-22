@@ -48,7 +48,7 @@ Testing is a critical part of the development process—ensuring that our applic
     - [Starting the Server and Running Tests](#starting-the-server-and-running-tests)
     - [Run Cypress Tests](#run-cypress-tests)
     - [Project Structure](#project-structure)
-    - [Preview Images of Tests Running in Cypress GUI 📸](#preview-images-of-tests-running-in-cypress-gui--)
+    - [Preview Images of Tests Running in Cypress GUI 📸](#preview-images-of-tests-running-in-cypress-gui-)
     - [🚀 Watch video showing the app's functionality and testing in the command line and Cypress GUI](#-watch-video-showing-the-apps-functionality-and-testing-in-the-command-line-and-cypress-gui)
   - [Contributing](#contributing)
   - [License](#license)
@@ -140,7 +140,9 @@ project-folder/
 
 ![E2E test](client/src/assets/E2E-test.jpg)
 
-### 🚀 [Watch video showing the app's functionality and testing in the command line and Cypress GUI](https://drive.google.com/file/d/1P6qn4crjZkXYAXJ4WpwGAZasHFRcZ_vH/view)
+### 🚀 Watch video showing the app's functionality and testing in the command line and Cypress GUI
+
+<video controls src="client/src/assets/Quiz Tech App Testing March 22, 2025 2_53 PM.mp4" title="Title"></video>
 
 ## Contributing
 
